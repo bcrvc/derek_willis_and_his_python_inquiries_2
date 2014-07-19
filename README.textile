@@ -1,0 +1,3 @@
+Scraping tweets mentioning "ona11" (without the hashtag because, well, whatever) using Twitter's Search API. This is downloading the text of the tweet, the date/time they were sent, the tweet id and the twitter user.
+
+This is going to include a lot of retweets, I imagine. But hey, I think that gives it a valid understanding of everything.
